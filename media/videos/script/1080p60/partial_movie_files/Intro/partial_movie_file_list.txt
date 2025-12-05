@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/lucyang29/Manim-Animations/media/videos/script/1080p60/partial_movie_files/Intro/3529212410_1225678003_223132457.mp4'
+file 'file:/Users/lucyang29/Manim-Animations/media/videos/script/1080p60/partial_movie_files/Intro/3040924799_3821305525_133268751.mp4'
+file 'file:/Users/lucyang29/Manim-Animations/media/videos/script/1080p60/partial_movie_files/Intro/3040924799_3406564205_687846754.mp4'
+file 'file:/Users/lucyang29/Manim-Animations/media/videos/script/1080p60/partial_movie_files/Intro/3040924799_3588840907_84036558.mp4'
+file 'file:/Users/lucyang29/Manim-Animations/media/videos/script/1080p60/partial_movie_files/Intro/3040924799_2860783889_532272564.mp4'
+file 'file:/Users/lucyang29/Manim-Animations/media/videos/script/1080p60/partial_movie_files/Intro/3040924799_174202987_3721972169.mp4'
+file 'file:/Users/lucyang29/Manim-Animations/media/videos/script/1080p60/partial_movie_files/Intro/3040924799_582313149_2049554036.mp4'
